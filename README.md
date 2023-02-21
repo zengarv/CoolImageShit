@@ -18,5 +18,6 @@ Right click anywhere on the screen to select that pixel color
 
 
 
-Dependencies:
+## Dependencies:
+
 numba, pygame, PIL, numpy, talent, comp sc degree and massive gratitude
