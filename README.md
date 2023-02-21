@@ -1,5 +1,5 @@
 ﻿# CoolImageShit
-Controls:
+## Operation:
 
 
 Drag and drop image from file explorer to work on it
@@ -9,6 +9,8 @@ Hold middle mouse button to scroll around
 ':)' button selects the color
 
 '>_<' button centers the image
+
+':0' generates the images with selected colors
 
 Left click to mess around with color picker and press buttons
 
